@@ -6,7 +6,8 @@
 Рис.1. результат выполнения теста
 
 
-Как сделать для своего API?
+### Как сделать для своего API?
+
 1. Settings -> Developer Settings -> Personal access tokens -> Tokens (classic) -> Generate new token (classic) -> Note... Expiration... Scopes... Generate token -> Copy token
 2. Создать в репозитории файл .env, файл напсать GITHUB_TOKEN=... (вставить скопированный токен)
 3. Запустить в консоли командой **pytest** или **pytest test_github_api.py**
