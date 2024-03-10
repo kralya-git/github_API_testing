@@ -1,5 +1,5 @@
 # Предмет: Управление качеством программных систем
 
-### Git_testing: Тестирование API GitHub
+- [x] [Git_testing](https://github.com/kralya-git/github_API_testing/tree/master/Git_testing) : Тестирование API GitHub
 
-### Lab3: Создание тестовой документации для веб-приложения 
+- [x] Lab3: Создание тестовой документации для веб-приложения 
