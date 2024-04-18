@@ -7,3 +7,5 @@
 - [x] [Lab4](https://github.com/kralya-git/quality-management-of-software-systems/tree/master/Lab4): Методы тест-дизайна
 
 - [x] [Lab5](https://github.com/kralya-git/quality-management-of-software-systems/tree/master/Lab5): Ручное тестирование
+
+- [x] [Lab6](https://github.com/kralya-git/quality-management-of-software-systems/tree/master/Lab6): Автоматизация тестирования
