@@ -1,7 +1,9 @@
 # Предмет: Управление качеством программных систем
 
 - [x] [Lab1](https://github.com/kralya-git/quality-management-of-software-systems/tree/master/Lab1): Тестирование документации
-    
+
+- [x] [Lab2](https://github.com/kralya-git/quality-management-of-software-systems/tree/master/Lab2): Работа с классификацией видов тестирования
+
 - [x] [Git_testing](https://github.com/kralya-git/github_API_testing/tree/master/Git_testing) : Тестирование API GitHub
 
 - [x] [Lab3](https://github.com/kralya-git/github_API_testing/tree/master/Lab3): Создание тестовой документации для веб-приложения 
